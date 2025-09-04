@@ -1,0 +1,23 @@
+{
+  "name": "byteglow-theme",
+  "displayName": "ByteGlow Theme",
+  "description": "A soothing theme for a modern coding experience. ",
+  "version": "0.0.1",
+  "publisher": "byteloom",
+  "engines": {
+    "vscode": "^1.103.0"
+  },
+  "icon": "images/icon.jpg",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "ByteGlow",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ByteGlow-color-theme.json"
+      }
+    ]
+  }
+}
