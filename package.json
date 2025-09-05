@@ -2,11 +2,16 @@
   "name": "byteglow-theme",
   "displayName": "ByteGlow Theme",
   "description": "A soothing theme for a modern coding experience. ",
-  "version": "0.0.1",
+  "version": "0.2.0",
   "publisher": "byteloom",
   "engines": {
     "vscode": "^1.103.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Amitrajit007/ByteGlow"
+  },
+  "author": "Amitrajit Sarkar",
   "icon": "images/icon.jpg",
   "categories": [
     "Themes"
