@@ -24,8 +24,6 @@ A soothing theme for a modern coding experience. ByteGlow is designed to reduce 
 
 ![ByteGlow Terminal](images/preview2.png)
 
-_Tip: Add as many screenshots as you like. Store them in the `images/` folder and use relative paths._
-
 ---
 
 ## Installation
